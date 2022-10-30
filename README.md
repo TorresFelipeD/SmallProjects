@@ -1,5 +1,4 @@
 # SmallProjects
----
 
 Este repositorio se usa bajos fines de integrar los proyectos que se construyen, enfocados a una funcionalidad especifica u oientados a funcionalidades de pequeña escala.
 
